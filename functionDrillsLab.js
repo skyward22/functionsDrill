@@ -112,7 +112,7 @@ const exclaim = function(str) {
 
 // arrow
 // declaration
-// expression
+// expression THIS ONE- uncommenting affects the terminal
 
 
 
@@ -127,7 +127,7 @@ const exclaimTwo = str => {
   return str.toUpperCase() + '!!!'
 }
 
-// arrow
+// arrow THIS ONE - uncommenting affects the terminal
 // declaration
 // expression
 
@@ -153,7 +153,7 @@ function exclaimFour(str) {
 }
 
 // arrow
-// declaration
+// declaration THIS ONE - uncommenting affects the terminal
 // expression
 
 
