@@ -29,7 +29,7 @@ helloWorld()
 // console.log(jsNinja('I am a Javascript ninja!'))
 const jsNinja = () => 'I am a JavaScript ninja!'
 
-jsNinja()
+console.log(jsNinja())
 ////////////////// PROBLEM 3 ////////////////////
 /*
   Create a function called printName which takes in a person's name and console logs it.
