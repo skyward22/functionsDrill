@@ -172,10 +172,10 @@ function nameCheck(name) {
   }else if(name === "Bryan"){ 
      return "Hey Bryan"
    } else {
-      return "Cool name, ${name}!"
+      return `Cool name, ${name}!`
     }
   } 
-  let nameGreating = nameCheck("Steven")
+  let nameGreating = nameCheck("Parker")
   console.log(nameGreating)
 
 ////////////////// PROBLEM 11 ////////////////////
